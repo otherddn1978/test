@@ -1,5 +1,3 @@
-
-#include <sstream>
 #include <iomanip>
 #include <set>
 #include "inifile.h"
