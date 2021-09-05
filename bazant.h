@@ -1,8 +1,6 @@
 #ifndef _BAZANT_H_2002_04_24
 #define _BAZANT_H_2002_04_24
 
-#ifdef NTSM_DEF
-#pragma warning(disable : 4786)
 
 #include <time.h>
 #include "semaphoret.h"
