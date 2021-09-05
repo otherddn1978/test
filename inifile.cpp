@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+#include <set>
+#include "inifile.h"
+#include "kdlstring.h"
+>>>>>>> 6e679ab5115ce1484f4ee714ff930ed72ef106a5
 
 std::string TIniFile::ReadString(const char *section, const char *key, const char *def) const
 {
