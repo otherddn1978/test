@@ -1,4 +1,3 @@
-#include <iomanip>
 #include <set>
 #include "inifile.h"
 #include "kdlstring.h"
