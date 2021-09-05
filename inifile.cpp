@@ -1,7 +1,3 @@
-#include <iomanip>
-#include <set>
-#include "inifile.h"
-#include "kdlstring.h"
 
 std::string TIniFile::ReadString(const char *section, const char *key, const char *def) const
 {
