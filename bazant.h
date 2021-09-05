@@ -21,8 +21,6 @@
 #include <vector>
 #include <set>
 
-class CStdFILE;
-
 class CBazaNt
 {
 public:
