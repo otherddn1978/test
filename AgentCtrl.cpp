@@ -1,6 +1,3 @@
-// ControlMan.cpp: implementation of the CAgentCtrl class.
-//
-//////////////////////////////////////////////////////////////////////
 
 #pragma warning(disable : 4786)
 
